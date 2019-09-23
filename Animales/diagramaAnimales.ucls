@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="PaqueteAnimal.PruebaAnimales" project="Animales" 
+    file="/Animales/src/PaqueteAnimal/PruebaAnimales.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="138" x="369" y="201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="PaqueteAnimal.Perro" project="Animales" 
+    file="/Animales/src/PaqueteAnimal/Perro.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="105" x="650" y="655"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="PaqueteAnimal.Ave" project="Animales" file="/Animales/src/PaqueteAnimal/Ave.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="125" x="407" y="437"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="PaqueteAnimal.Canario" project="Animales" 
+    file="/Animales/src/PaqueteAnimal/Canario.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="113" x="344" y="655"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="PaqueteAnimal.Lagarto" project="Animales" 
+    file="/Animales/src/PaqueteAnimal/Lagarto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="125" x="572" y="437"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="PaqueteAnimal.Mamífero" project="Animales" 
+    file="/Animales/src/PaqueteAnimal/Mamífero.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="125" x="737" y="437"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="PaqueteAnimal.Animal" project="Animales" 
+    file="/Animales/src/PaqueteAnimal/Animal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="130" x="572" y="201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="PaqueteAnimal.Gato" project="Animales" 
+    file="/Animales/src/PaqueteAnimal/Gato.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="114" x="795" y="655"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="PaqueteAnimal.Pinguino" project="Animales" 
+    file="/Animales/src/PaqueteAnimal/Pinguino.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="113" x="497" y="655"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="10">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="11">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="12">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="14">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
